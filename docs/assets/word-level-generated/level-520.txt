@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:LATER,startX:0,startY:4,endX:4,endY:4,isFound:false},{word:LENS,startX:0,startY:3,endX:3,endY:3,isFound:false},{word:BMX,startX:3,startY:2,endX:1,endY:2,isFound:false},{word:GBP,startX:0,startY:2,endX:2,endY:0,isFound:false}],wordMatrix:DGGLLLBXEAPHMNTKIBSEACOPR}

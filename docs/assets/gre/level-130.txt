@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:VIPER,startX:0,startY:4,endX:4,endY:0,isFound:false,exp:""},{word:FEUD,startX:3,startY:4,endX:0,endY:1,isFound:false,exp:""},{word:LUST,startX:1,startY:0,endX:4,endY:3,isFound:false,exp:""},{word:LIEN,startX:0,startY:3,endX:3,endY:3,isFound:false,exp:""}],wordMatrix:QDYLVLAUIQRUPEIDESNFRRFTC}

@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:HUSH,startX:0,startY:4,endX:3,endY:1,isFound:false},{word:SEPT,startX:3,startY:0,endX:0,endY:3,isFound:false},{word:PACK,startX:4,startY:4,endX:1,endY:4,isFound:false},{word:RNA,startX:3,startY:2,endX:3,endY:4,isFound:false}],wordMatrix:HHJTHDQPUKHESFCSHRNAKJKLP}

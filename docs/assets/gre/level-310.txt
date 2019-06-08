@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:FORGO,startX:0,startY:0,endX:4,endY:4,isFound:false,exp:""},{word:WAKE,startX:3,startY:4,endX:0,endY:1,isFound:false,exp:""},{word:COIN,startX:1,startY:0,endX:4,endY:3,isFound:false,exp:""},{word:PAN,startX:2,startY:0,endX:4,endY:2,isFound:false,exp:""}],wordMatrix:FEVIOCOKYZPORAWBAIGWKZNNO}

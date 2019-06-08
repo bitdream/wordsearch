@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:LABEL,startX:0,startY:4,endX:4,endY:0,isFound:false,exp:""},{word:BENT,startX:0,startY:3,endX:3,endY:0,isFound:false,exp:""},{word:SLUM,startX:4,startY:4,endX:1,endY:4,isFound:false,exp:""},{word:ERA,startX:2,startY:3,endX:4,endY:1,isFound:false,exp:""}],wordMatrix:GHKBLQDEAMCNBEUTERULLAIBS}

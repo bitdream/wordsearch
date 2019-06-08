@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:SMES,startX:3,startY:3,endX:0,endY:0,isFound:false},{word:SYN,startX:3,startY:2,endX:3,endY:0,isFound:false},{word:LAO,startX:3,startY:4,endX:1,endY:2,isFound:false},{word:SYS,startX:2,startY:4,endX:0,endY:2,isFound:false}],wordMatrix:SHSQJVEOYDXLMASNYSSLNGATR}

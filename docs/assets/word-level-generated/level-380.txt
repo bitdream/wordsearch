@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:THINK,startX:4,startY:4,endX:0,endY:4,isFound:false},{word:CITY,startX:3,startY:3,endX:0,endY:3,isFound:false},{word:NEC,startX:4,startY:0,endX:2,endY:2,isFound:false},{word:TRA,startX:1,startY:2,endX:3,endY:0,isFound:false}],wordMatrix:UJJYKFCTTNURCIIAEWCHNERIT}

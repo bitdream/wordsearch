@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:WRATH,startX:4,startY:0,endX:0,endY:4,isFound:false},{word:SOME,startX:4,startY:4,endX:4,endY:1,isFound:false},{word:LAG,startX:1,startY:2,endX:3,endY:4,isFound:false},{word:ITA,startX:0,startY:2,endX:2,endY:0,isFound:false}],wordMatrix:XEIWHGTLTMADAAAARFUGWEMOS}

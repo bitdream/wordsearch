@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:PRIZE,startX:0,startY:4,endX:4,endY:4,isFound:false,exp:""},{word:TERSE,startX:4,startY:0,endX:4,endY:4,isFound:false,exp:""},{word:MODE,startX:3,startY:0,endX:0,endY:3,isFound:false,exp:""},{word:PAN,startX:3,startY:1,endX:1,endY:3,isFound:false,exp:""}],wordMatrix:ZJUEPICDNRFOABIMPJYZTERSE}

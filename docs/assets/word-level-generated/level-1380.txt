@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:EATON,startX:0,startY:4,endX:4,endY:4,isFound:false},{word:IRA,startX:3,startY:2,endX:1,endY:0,isFound:false},{word:CMS,startX:0,startY:1,endX:2,endY:3,isFound:false},{word:GAP,startX:0,startY:2,endX:2,endY:0,isFound:false}],wordMatrix:NCGJEAAMDAPRESTAOIZONYAFN}

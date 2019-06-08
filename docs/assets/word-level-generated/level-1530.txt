@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:DAS,startX:1,startY:1,endX:3,endY:3,isFound:false},{word:IOS,startX:1,startY:2,endX:3,endY:0,isFound:false},{word:UFO,startX:4,startY:2,endX:4,endY:0,isFound:false},{word:DER,startX:1,startY:4,endX:3,endY:2,isFound:false}],wordMatrix:RYIHCGDIWDJOAEQSDRSBOFUGI}

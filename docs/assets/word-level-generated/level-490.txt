@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:ROOMS,startX:0,startY:4,endX:4,endY:0,isFound:false},{word:DISK,startX:4,startY:4,endX:1,endY:4,isFound:false},{word:FTA,startX:4,startY:1,endX:4,endY:3,isFound:false},{word:MED,startX:0,startY:1,endX:2,endY:3,isFound:false}],wordMatrix:BMEQRLHEOKRYODSAMENISFTAD}

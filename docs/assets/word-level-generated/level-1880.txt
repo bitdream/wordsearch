@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:CARP,startX:3,startY:0,endX:3,endY:3,isFound:false},{word:QUAD,startX:0,startY:1,endX:3,endY:4,isFound:false},{word:OMB,startX:4,startY:0,endX:4,endY:2,isFound:false},{word:HEH,startX:2,startY:4,endX:0,endY:4,isFound:false}],wordMatrix:FQUJHYKUVEEPNAHCARPDOMBXB}

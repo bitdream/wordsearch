@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:CISCO,startX:0,startY:4,endX:4,endY:0,isFound:false},{word:NITE,startX:0,startY:3,endX:3,endY:3,isFound:false},{word:PSI,startX:1,startY:2,endX:3,endY:0,isFound:false},{word:GRE,startX:1,startY:4,endX:3,endY:4,isFound:false}],wordMatrix:XEXNCFJPIGESSTRICBEEOFZQS}

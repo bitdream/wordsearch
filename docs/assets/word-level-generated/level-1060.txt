@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:GWEN,startX:4,startY:0,endX:1,endY:3,isFound:false},{word:CAIN,startX:4,startY:4,endX:1,endY:4,isFound:false},{word:ENV,startX:2,startY:2,endX:2,endY:0,isFound:false},{word:MOS,startX:0,startY:1,endX:2,endY:3,isFound:false}],wordMatrix:OMGFBKPONNVNESILWIPAGJLGC}

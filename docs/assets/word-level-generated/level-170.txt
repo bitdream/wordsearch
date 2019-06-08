@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:ALPS,startX:1,startY:3,endX:4,endY:0,isFound:false},{word:USER,startX:0,startY:3,endX:3,endY:0,isFound:false},{word:MIRA,startX:0,startY:4,endX:3,endY:4,isFound:false},{word:IDG,startX:4,startY:3,endX:4,endY:1,isFound:false}],wordMatrix:OVLUMMESAIKELHRRPXGASGDIE}

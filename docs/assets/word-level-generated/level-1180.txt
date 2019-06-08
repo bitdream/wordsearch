@@ -1,0 +1,1 @@
+{width:5,height:5,targets:[{word:FAQS,startX:1,startY:0,endX:4,endY:3,isFound:false},{word:TRES,startX:1,startY:1,endX:4,endY:4,isFound:false},{word:JIN,startX:0,startY:3,endX:2,endY:3,isFound:false},{word:TAI,startX:1,startY:2,endX:3,endY:0,isFound:false}],wordMatrix:OPOJFFTTIBWARNCIFQEDNBOSS}

@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:SACK,startX:3,startY:1,endX:0,endY:4,isFound:false,exp:""},{word:TRAP,startX:0,startY:3,endX:3,endY:0,isFound:false,exp:""},{word:BIT,startX:2,startY:4,endX:4,endY:4,isFound:false,exp:""},{word:BET,startX:2,startY:3,endX:4,endY:3,isFound:false,exp:""}],wordMatrix:BWQTKSERCDDAABBPSWEIYMRTT}

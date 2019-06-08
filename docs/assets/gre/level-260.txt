@@ -1,0 +1,1 @@
+{currentSecond:0,bestFinishSecond:0,width:5,height:5,targets:[{word:CLEFT,startX:0,startY:4,endX:4,endY:4,isFound:false,exp:""},{word:CANT,startX:1,startY:1,endX:4,endY:4,isFound:false,exp:""},{word:HIVE,startX:1,startY:0,endX:4,endY:3,isFound:false,exp:""},{word:NIB,startX:3,startY:0,endX:1,endY:2,isFound:false,exp:""}],wordMatrix:RBCZCHCBELJIAHENZVNFBDXET}
